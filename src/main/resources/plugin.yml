@@ -1,0 +1,11 @@
+main: kr.pak.main.Main
+name: Glugin
+version: 1.0
+api-version: 1.17
+author: PPark8093
+description: This is Glugin!
+commands:
+  sethome:
+    description: Setting your home!
+  home:
+    description: Moving player to its home!
