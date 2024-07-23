@@ -1,7 +1,4 @@
 # Glugin
-
-This is my first Kotlin (Minecraft)Plugin!
-
 ---
 This Plugin's function
 1. Escape
