@@ -3,8 +3,8 @@
 functions
 
 1. Escape
-- First shift : This set your location.
-- Second shift : This teleport you first location(and first location is remove).
+- First shift : set your location to setting_location.
+- Second shift : teleport you setting_location and reset setting_location.
 2. Sethome
-- /sethome : This set your home(location).
-- /home : This teleport you home.
+- /sethome : set your location to home.
+- /home : teleport you home.
